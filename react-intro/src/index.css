@@ -11,25 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.Title, footer{
-  text-align: center;
-}
-*{margin: 0 auto;
-  background-image:url(https://i.ytimg.com/vi/1Q_Jd_MTdrY/maxresdefault.jpg);
-  background-position:center;
-}
-
-li,p{
-  font-size: 20px;
-  font-family: cursive;
-}
-table{
-  margin-left: 150px;
-  width: 1250px;
-}
-span{
-  font-weight: bold;
-}
-ul,p{
-  margin-left: 50px;
-}
